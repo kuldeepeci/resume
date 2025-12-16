@@ -4,6 +4,7 @@
 
 
 LinkedIn: https://www.linkedin.com/in/kuldeep-azad-a628166b
+
 Email : kuldeepazad15@gmail.com | Mobile: +91-9690601106
 
 **Professional Summary**
