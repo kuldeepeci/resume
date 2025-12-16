@@ -1,8 +1,7 @@
-
 Kuldeep Singh Azad
-LinkedIn: https://www.linkedin.com/in/kuldeep-azad-a628166b
-Email id: kuldeepazad15@gmail.com
-Mobile: +91 - 9690601106	
+  ![My Photo](https://github.com/user-attachments/assets/99ddabcf-970b-44c0-a569-059fae2c3777)
+                              LinkedIn: https://www.linkedin.com/in/kuldeep-azad-a628166b
+                                Email : kuldeepazad15@gmail.com | Mobile: +91-9690601106	
 
 **Professional Summary**
 Recognized for driving cross-functional collaboration and mentoring teams to deliver high availability, secure, and scalable infrastructure solutions.
