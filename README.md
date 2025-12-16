@@ -1,5 +1,4 @@
-**Kuldeep Singh Azad**
-![My Photo](https://github.com/user-attachments/assets/3f659a5f-8c1a-4001-b295-c712e7c49b5b)
+**Kuldeep Singh Azad** ![My Photo](https://github.com/user-attachments/assets/3f659a5f-8c1a-4001-b295-c712e7c49b5b)
 LinkedIn: https://www.linkedin.com/in/kuldeep-azad-a628166b
 Email : kuldeepazad15@gmail.com | Mobile: +91-9690601106	
 
