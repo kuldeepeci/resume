@@ -24,8 +24,8 @@ compliance, and stakeholder collaboration
 
 Work Experience and Roles & Responsibilities  -
 Genpact India Pvt. Ltd. :       *	Principal Consultant  (1st April 2026 to Present)
-•	Lead Consultant (1st October 2022 to 31st March 2026)
-•	Consultant (17th August 2020 to 30th September 2022)
+                                •	Lead Consultant (1st October 2022 to 31st March 2026)
+                                •	Consultant (17th August 2020 to 30th September 2022)
 (From 17th August 2020 to 4th March 2021 on payroll of Skilliantech India Pvt. Ltd. and onboard to Genpact on 5th March 2021)
 •	Developed and implemented custom solutions aligned with clients’ strict technical and business requirements.
 •	Planned and prioritized multiple projects by aligning tasks with key milestones and critical deadlines.
