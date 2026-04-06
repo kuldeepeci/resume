@@ -2,19 +2,17 @@
 
 ![My Photo](https://github.com/user-attachments/assets/3b0bc5f7-f36f-4156-b12e-0a4cc321ec46)
 
-
 LinkedIn: https://www.linkedin.com/in/kuldeep-azad-a628166b
-
 Email : kuldeepazad15@gmail.com | Mobile: +91-9690601106
 
-Profile Summary -
+**Profile Summary -**
 Profile 		: Male, 34, Married
 Nationality 		: Indian
 Current Location	: Noida
 Current Position	: Principal Consultant
 Current Company	: Genpact India Pvt Ltd
 
-Professional Summary :
+**Professional Summary :**
 Recognized for driving cross-functional collaboration and mentoring teams to deliver high availability, secure, and scalable infrastructure solutions.
 Results-driven Lead Consultant with 13+ years of experience in Cloud Infrastructure, Linux 
 Administration, and DevOps.
@@ -22,8 +20,8 @@ Proven expertise in designing and implementing enterprise scale solutions across
 Skilled in automation, migration, and security hardening with a strong focus on operational efficiency, 
 compliance, and stakeholder collaboration
 
-Work Experience and Roles & Responsibilities  -
-Genpact India Pvt. Ltd. :       *	Principal Consultant  (1st April 2026 to Present)
+**Work Experience and Roles & Responsibilities  -**
+****Genpact India Pvt. Ltd. :** *	Principal Consultant  (1st April 2026 to Present)
                                 •	Lead Consultant (1st October 2022 to 31st March 2026)
                                 •	Consultant (17th August 2020 to 30th September 2022)
 (From 17th August 2020 to 4th March 2021 on payroll of Skilliantech India Pvt. Ltd. and onboard to Genpact on 5th March 2021)
@@ -52,7 +50,7 @@ Led major OS upgrade and migration initiatives, including:
 •	Reviewed server hardening policies and shared compliance parameters with InfoSec for validation.
 
 
-Cloud Infrastructure (AWS)
+**Cloud Infrastructure (AWS)**
 •	Provisioned and decommissioned AWS EC2 instances, resizing instances and encrypting EBS volumes with Cmk
 •	Designed and deployed VPCs, subnets, security groups, and ACLs to meet customer requirements.
 •	Implemented S3 bucket policies, encryption, IAM policies, and managed secure data storage.
@@ -63,7 +61,7 @@ Cloud Infrastructure (AWS)
 •	Conducted quarterly DR testing for EC2, RDS, and Elastic Beanstalk environments.
 •	Codify non-IaC infra into IaC using Firefly and Terraform for improved consistency and automation
 •	Managing Ansible for IaC to implement system hardening, monitor server status across multiple consoles post-hardening, and automate email reporting.
-System Administration
+**System Administration**
 •	Installed, supported, and troubleshot RHEL, Oracle Linux, and Ubuntu systems.
 •	Managed Change Requests (CRQs) for production servers patch management and configuration.
 •	Responded to InfoSec queries and provided compliance evidence for internal & external audits.
@@ -76,7 +74,7 @@ System Administration
 •	Collaborated with vendors to resolve OS and hardware incidents by logging support cases through to resolution.
 •	Worked with various tools in accordance with company policies for vulnerability assessment , automation, Qradar and alert management to ensure server compliance.
 
-Prakhar Software Solution project of Election Commission of India : System Admin (Part of Middleware Team)
+**Prakhar Software Solution project of Election Commission of India : System Admin (Part of Middleware Team)**
 (From 25th March 2019 to 15th August 2020.)
 •	Installed, supported, and troubleshot CentOS, RHEL, Ubuntu, and Windows systems.
 •	Performed OS patching, vulnerability fixes, migrations, and user/group administration.
@@ -89,15 +87,15 @@ Prakhar Software Solution project of Election Commission of India : System Admin
 •	Monitored server performance using top, netstat, ps.
 •	Administered HP Blade servers and Citrix XenCenter environments.
 
-Agnisys Technology Pvt. Ltd. : System and Network Admin
+**Agnisys Technology Pvt. Ltd. : System and Network Admin**
 (November 13th 2018 to 20th March 2019)
 •	Configured and managed switches, firewalls, and LAN/WAN connectivity.
 •	Administered Apache, NFS, SSH, Samba, DHCP, and user/group permissions.
 •	Managed file systems, SFTP accounts (with Chroot), and backups on a daily basis.
 •	Performed driver updates/rollbacks and coordinated with ISPs for leased line issues.
 •	Handled IT inventory, license management, cPanel, Webmail, and Outlook (.pst) backups.
-•	
-ABP Pvt. Ltd. On Payroll of IKYA Human Capital : It-Executive
+
+**ABP Pvt. Ltd. On Payroll of IKYA Human Capital : It-Executive**
 (June 5th 2017 to November 12th 2018)
 •	Installed, configured, and maintained RHEL servers with Samba file services.
 •	Managed users, groups, permissions, disks, LVM, and hardware RAID.
@@ -111,7 +109,7 @@ ABP Pvt. Ltd. On Payroll of IKYA Human Capital : It-Executive
 
 
 
-Extramarks Education India Pvt. Ltd. : It-Executive
+**Extramarks Education India Pvt. Ltd. : It-Executive**
 (April 23rd 2012 to September 8th 2013 and November 18th 2013 to June 16th 2017)
 •	Installed operating systems and packages; configured and supported LAMP stack.
 •	Troubleshot hardware and OS issues, ensuring system stability.
@@ -120,14 +118,14 @@ Extramarks Education India Pvt. Ltd. : It-Executive
 •	Delivered on-site implementation, user training, and technical support.
 
 
-Educational Qualifications :
+**Educational Qualifications :**
 Duration	      Degree	            Board/University
 2014-16	MCA	Punjab Technical University
 2007-2010	BCA (Gradation)	CCS University Meerut
 2007	12th	UP Board Allahabad
 2005	10th	UP Board Allahabad
 
-Certifications :
+**Certifications :**
 	Certificate ID : 170-124-937	Red Hat Certified Engineer (RHCE)
 Red Hat Certified System Administrator (RHCSA)
 	Certificate ID C6B8PE126JFQ139K	AWS Certified Cloud Practitioner
@@ -135,7 +133,7 @@ Red Hat Certified System Administrator (RHCSA)
 	Certificate ID 97MHTF814BR1QCK5	AWS Certified SysOps Administrator – Associate
 •	Validate at - https://aws.amazon.com/verification
 
-Skills :
+**Skills :**
 Programming Language	Shell and Python Scripting
 Databases	MySQL & MariaDB
 Operating System	RHEL, Oracle Linux, CentOs, Ubuntu and Windows
