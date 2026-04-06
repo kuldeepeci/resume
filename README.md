@@ -7,7 +7,14 @@ LinkedIn: https://www.linkedin.com/in/kuldeep-azad-a628166b
 
 Email : kuldeepazad15@gmail.com | Mobile: +91-9690601106
 
-**Professional Summary**
+Profile Summary -
+Profile 		: Male, 34, Married
+Nationality 		: Indian
+Current Location	: Noida
+Current Position	: Principal Consultant
+Current Company	: Genpact India Pvt Ltd
+
+Professional Summary :
 Recognized for driving cross-functional collaboration and mentoring teams to deliver high availability, secure, and scalable infrastructure solutions.
 Results-driven Lead Consultant with 13+ years of experience in Cloud Infrastructure, Linux 
 Administration, and DevOps.
@@ -15,9 +22,10 @@ Proven expertise in designing and implementing enterprise scale solutions across
 Skilled in automation, migration, and security hardening with a strong focus on operational efficiency, 
 compliance, and stakeholder collaboration
 
-**Work Experience and Roles & Responsibilities**
-
-**Genpact India Pvt. Ltd. : Lead Consultant (17th August 2020 to Present)**
+Work Experience and Roles & Responsibilities  -
+Genpact India Pvt. Ltd. :       *	Principal Consultant  (1st April 2026 to Present)
+•	Lead Consultant (1st October 2022 to 31st March 2026)
+•	Consultant (17th August 2020 to 30th September 2022)
 (From 17th August 2020 to 4th March 2021 on payroll of Skilliantech India Pvt. Ltd. and onboard to Genpact on 5th March 2021)
 •	Developed and implemented custom solutions aligned with clients’ strict technical and business requirements.
 •	Planned and prioritized multiple projects by aligning tasks with key milestones and critical deadlines.
@@ -34,13 +42,15 @@ compliance, and stakeholder collaboration
 •	Exposure to ITIL processes including Incident, Problem, and Change Management, ensuring structured IT service delivery and minimal business disruption.
 •	Monitored system performance, capacity, and availability; recommended and implemented upgrades to enhance scalability and reliability.
 Led major OS upgrade and migration initiatives, including:
-•	Ubuntu 16 → Ubuntu 18/20/22
+•	Ubuntu 16/18 → Ubuntu 20/22
+•	Upgrade from Ubuntu to Ubuntu Pro across on-premises and cloud servers
 •	Oracle Linux 7 → Oracle Linux 8 & RHEL 7 → RHEL 8  RHEL 9 (via Leapp utility)
 •	CentOS → Oracle Linux (Migration)
 •	Managed Windows AD integration (Domain Join) on Linux servers.
 •	Implemented access control policies to allow/block unwanted users on AD-integrated Linux servers.
 •	Collaborated with the automation team to streamline OS patching and user access automation.
 •	Reviewed server hardening policies and shared compliance parameters with InfoSec for validation.
+
 
 Cloud Infrastructure (AWS)
 •	Provisioned and decommissioned AWS EC2 instances, resizing instances and encrypting EBS volumes with Cmk
@@ -51,6 +61,8 @@ Cloud Infrastructure (AWS)
 •	Built and managed IAM users, groups, and secrets management following InfoSec guidelines.
 •	Extended/reduced EKS cluster nodes and ensured infrastructure availability for production workloads.
 •	Conducted quarterly DR testing for EC2, RDS, and Elastic Beanstalk environments.
+•	Codify non-IaC infra into IaC using Firefly and Terraform for improved consistency and automation
+•	Managing Ansible for IaC to implement system hardening, monitor server status across multiple consoles post-hardening, and automate email reporting.
 System Administration
 •	Installed, supported, and troubleshot RHEL, Oracle Linux, and Ubuntu systems.
 •	Managed Change Requests (CRQs) for production servers patch management and configuration.
@@ -62,8 +74,9 @@ System Administration
 •	Monitored system processes, memory, and logs using : ps, top/btop, netstat etc.
 •	Supported PCS clustering, performing resource migration based on business needs.
 •	Collaborated with vendors to resolve OS and hardware incidents by logging support cases through to resolution.
+•	Worked with various tools in accordance with company policies for vulnerability assessment , automation, Qradar and alert management to ensure server compliance.
 
-**Prakhar Software Solution project of Election Commission of India : System Admin (Part of Middleware Team)**
+Prakhar Software Solution project of Election Commission of India : System Admin (Part of Middleware Team)
 (From 25th March 2019 to 15th August 2020.)
 •	Installed, supported, and troubleshot CentOS, RHEL, Ubuntu, and Windows systems.
 •	Performed OS patching, vulnerability fixes, migrations, and user/group administration.
@@ -84,7 +97,7 @@ Agnisys Technology Pvt. Ltd. : System and Network Admin
 •	Performed driver updates/rollbacks and coordinated with ISPs for leased line issues.
 •	Handled IT inventory, license management, cPanel, Webmail, and Outlook (.pst) backups.
 •	
-**ABP Pvt. Ltd. On Payroll of IKYA Human Capital : It-Executive**
+ABP Pvt. Ltd. On Payroll of IKYA Human Capital : It-Executive
 (June 5th 2017 to November 12th 2018)
 •	Installed, configured, and maintained RHEL servers with Samba file services.
 •	Managed users, groups, permissions, disks, LVM, and hardware RAID.
@@ -94,7 +107,11 @@ Agnisys Technology Pvt. Ltd. : System and Network Admin
 •	Maintained Windows/Mac systems, updates, backups, and antivirus security.
 •	Supported video conferencing solutions (Polycom, Google Chromebox).
 
-**Extramarks Education India Pvt. Ltd. : It-Executive**
+
+
+
+
+Extramarks Education India Pvt. Ltd. : It-Executive
 (April 23rd 2012 to September 8th 2013 and November 18th 2013 to June 16th 2017)
 •	Installed operating systems and packages; configured and supported LAMP stack.
 •	Troubleshot hardware and OS issues, ensuring system stability.
@@ -102,28 +119,37 @@ Agnisys Technology Pvt. Ltd. : System and Network Admin
 •	Handled system security, backups, and recovery for business continuity.
 •	Delivered on-site implementation, user training, and technical support.
 
-**Educational Qualifications** :
+
+Educational Qualifications :
+Duration	      Degree	            Board/University
 2014-16	MCA	Punjab Technical University
 2007-2010	BCA (Gradation)	CCS University Meerut
 2007	12th	UP Board Allahabad
 2005	10th	UP Board Allahabad
 
-**Certifications**
-Certificate ID : 170-124-937	Red Hat Certified Engineer (RHCE)
+Certifications :
+	Certificate ID : 170-124-937	Red Hat Certified Engineer (RHCE)
 Red Hat Certified System Administrator (RHCSA)
-Certificate ID C6B8PE126JFQ139K	AWS Certified Cloud Practitioner
-Certificate ID DE1P4J2CYE4QQWSJ	AWS Certified Solutions Architect – Associate
-Certificate ID 97MHTF814BR1QCK5	AWS Certified SysOps Administrator – Associate
-**Validate at** - https://aws.amazon.com/verification
+	Certificate ID C6B8PE126JFQ139K	AWS Certified Cloud Practitioner
+	Certificate ID DE1P4J2CYE4QQWSJ	AWS Certified Solutions Architect – Associate
+	Certificate ID 97MHTF814BR1QCK5	AWS Certified SysOps Administrator – Associate
+•	Validate at - https://aws.amazon.com/verification
 
-**Skills**
+Skills :
 Programming Language	Shell and Python Scripting
 Databases	MySQL & MariaDB
 Operating System	RHEL, Oracle Linux, CentOs, Ubuntu and Windows
 Tools	Docker, Kubernetes,  Ansible, Terraform,  git & github , Jenkins and Bugzilla
 Monitoring Tools	Logic Monitor & Nagios
-Patching & Automation	Manage Engine
+Patching & Automation	Manage Engine & Tanium
 
-**Language** - Hindi, English
+Languages_-
+Hindi	 	Native
+English		Intermediate
 
-**Hobbies and Interests** - Googling, listening music, Reading books, Horse Riding and Bike Riding.
+Hobbies and Interests
+Googling, listening music, Reading books, Horse Riding and Bike Riding.
+
+
+
+                            										Kuldeep Singh Azad
