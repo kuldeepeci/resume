@@ -24,7 +24,8 @@ compliance, and stakeholder collaboration
 ****Genpact India Pvt. Ltd. :** *	Principal Consultant  (1st April 2026 to Present)
                                 •	Lead Consultant (1st October 2022 to 31st March 2026)
                                 •	Consultant (17th August 2020 to 30th September 2022)
-(From 17th August 2020 to 4th March 2021 on payroll of Skilliantech India Pvt. Ltd. and onboard to Genpact on 5th March 2021)
+**(From 17th August 2020 to 4th March 2021 on payroll of Skilliantech India Pvt. Ltd. and onboard to Genpact on 5th March 2021)**
+
 •	Developed and implemented custom solutions aligned with clients’ strict technical and business requirements.
 •	Planned and prioritized multiple projects by aligning tasks with key milestones and critical deadlines.
 •	Identified areas of improvement and introduced optimized processes to reduce recurring operational issues.
@@ -39,7 +40,8 @@ compliance, and stakeholder collaboration
 •	Provided mentorship, training, and guidance to team members, improving technical capability and adherence to ITIL processes.
 •	Exposure to ITIL processes including Incident, Problem, and Change Management, ensuring structured IT service delivery and minimal business disruption.
 •	Monitored system performance, capacity, and availability; recommended and implemented upgrades to enhance scalability and reliability.
-Led major OS upgrade and migration initiatives, including:
+
+**Led major OS upgrade and migration initiatives, including:**
 •	Ubuntu 16/18 → Ubuntu 20/22
 •	Upgrade from Ubuntu to Ubuntu Pro across on-premises and cloud servers
 •	Oracle Linux 7 → Oracle Linux 8 & RHEL 7 → RHEL 8  RHEL 9 (via Leapp utility)
@@ -48,8 +50,6 @@ Led major OS upgrade and migration initiatives, including:
 •	Implemented access control policies to allow/block unwanted users on AD-integrated Linux servers.
 •	Collaborated with the automation team to streamline OS patching and user access automation.
 •	Reviewed server hardening policies and shared compliance parameters with InfoSec for validation.
-
-
 **Cloud Infrastructure (AWS)**
 •	Provisioned and decommissioned AWS EC2 instances, resizing instances and encrypting EBS volumes with Cmk
 •	Designed and deployed VPCs, subnets, security groups, and ACLs to meet customer requirements.
@@ -59,8 +59,8 @@ Led major OS upgrade and migration initiatives, including:
 •	Built and managed IAM users, groups, and secrets management following InfoSec guidelines.
 •	Extended/reduced EKS cluster nodes and ensured infrastructure availability for production workloads.
 •	Conducted quarterly DR testing for EC2, RDS, and Elastic Beanstalk environments.
-•	Codify non-IaC infra into IaC using Firefly and Terraform for improved consistency and automation
-•	Managing Ansible for IaC to implement system hardening, monitor server status across multiple consoles post-hardening, and automate email reporting.
+•	Codify non-IaC infra into IaC using Firefly & Terraform for improved consistency and automation
+•	Managing Ansible and Gi for IaC to implement system hardening, monitor server status across multiple consoles post-hardening, and automate email reporting.
 **System Administration**
 •	Installed, supported, and troubleshot RHEL, Oracle Linux, and Ubuntu systems.
 •	Managed Change Requests (CRQs) for production servers patch management and configuration.
